@@ -1,4 +1,4 @@
-// Dance of the knight - Knight's tour algorithm 
+// Dance of the knight -- Knight's tour algorithm (Working with EF the Great)
 // ~~~~~~~~~~~~~~~~~~~~~~~
  
 // 
