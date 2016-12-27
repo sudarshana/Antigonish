@@ -1,4 +1,4 @@
-# Reading Unix time/ POSIX time/Epoch time and converting it into current time 
+# Reading Unix time/POSIX time/Epoch time and converting it into current time 
 
 
 import time
