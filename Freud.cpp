@@ -2,6 +2,7 @@
 // State machine bits -> Probably not complete
 // Can not find wiring diagrams -> Pin definitions
 // Can not find laser cutter project files for housing
+// Code guide: Eugene Fainstain
 
 
 #include <SoftwareSerial.h>
